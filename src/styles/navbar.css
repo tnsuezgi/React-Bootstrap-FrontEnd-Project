@@ -1,0 +1,37 @@
+.navbarSpec{
+    background-color: #FFFBEB;
+    .navbarLogo{
+        color:#78350F;
+        font-size: 32px;
+        font-weight: 700;
+    }
+    .nav-link{
+        color:#78350F;
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .nav-link:hover {
+        color: #78350fba;
+    }
+
+    .menu-card{
+        height: 300px;
+    }
+
+    .navbar-toggler-icon {
+        background-color: #78350F;
+        width: 30px;
+        height: 30px;
+    }
+    .menu-open-icon span{
+        color: #78350F;
+    }
+    .navbar-brand:hover{
+        color: #78350fba;
+    }
+}
+
+
+
+
+
