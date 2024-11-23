@@ -211,7 +211,7 @@ const BodyContent = () => {
             <div className="body-area-3">
                 <div className="container background-body-area-3">
                     <div className="row d-flex align-items-center">
-                        <div className="col-12 col-md-6 d-flex flex-column align-items-center align-items-md-start">
+                        <div className="col-12 col-md-6 custom-col-12 d-flex flex-column align-items-center align-items-md-start">
                             <h4 className="fs-1 text-center text-md-start fw-bolder py-2">
                                 Why join us</h4>
                             <ul className={"text-start list-unstyled py-2"}>
@@ -232,7 +232,7 @@ const BodyContent = () => {
                                 font-size-16 me-2 py-2">Sign up now
                             </button>
                         </div>
-                        <div className="col-12 col-md-6 right-area d-flex justify-content-end" style={{margin: "50px 0"}}>
+                        <div className="col-12 col-md-6 custom-col-12 right-area d-flex justify-content-end" style={{margin: "50px 0"}}>
                             <div className={"video-back"}>
                                 <img src={images.videoBack} alt="video back" className="video-back"/>
                             </div>

@@ -24,9 +24,9 @@ const Comments = () => {
     return (
         <div className="body-area-4 position-relative">
             <div className={"yellow-area"}></div>
-            <div className="container background-body-area-3">
-                <div className="row d-flex align-items-center">
-                    <div className="col-12 col-md-12 d-flex flex-row mb-4">
+            <div className="background-body-area-3">
+                <div className="d-flex flex-column align-items-center">
+                    <div className="container d-flex flex-row mb-4">
                         <div className="col-12 col-md-8 d-flex flex-column">
                             <h4 className="fs-1 text-start fw-bolder py-2">
                                 Because they love us</h4>
